@@ -5,4 +5,4 @@ metadata:
   description: My example component
 spec:
   type: service
-  owner: pinakdhir22
+  owner: user:pinakdhir22  
