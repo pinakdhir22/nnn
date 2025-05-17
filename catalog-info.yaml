@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: main
+  annotations:
+    github.com/project-slug: pinakdhir22/nnn/new/main
+spec:
+  type: other
+  lifecycle: unknown
