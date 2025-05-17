@@ -2,7 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: main
-  description: My example component
+  annotations:
+    github.com/project-slug: pinakdhir22/nnn/new/main
 spec:
-  type: service
-  owner: user:pinakdhir22  
+  type: other
+  lifecycle: unknown
+  owner: pinakdhir22
